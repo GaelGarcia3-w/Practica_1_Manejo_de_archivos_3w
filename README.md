@@ -82,6 +82,8 @@ archivo.close()# Se cierra el archivo.
 
 ![image](https://github.com/user-attachments/assets/8f95dd92-73fb-4985-b1ae-56a055f139fe)
 
+![image](https://github.com/user-attachments/assets/9e1cb484-2aaa-40a2-a5e1-740d6ab9ebf0)
+
 # Programa 7
 
 print("Para comprobar si el archivo existe, usa 'os.path.exists(\"Pollos.txt.txt\")'.")
