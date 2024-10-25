@@ -88,11 +88,15 @@ print("Para comprobar si el archivo existe, usa 'os.path.exists(\"Pollos.txt.txt
 
 ![image](https://github.com/user-attachments/assets/b46f7c02-8956-4b2a-8469-6439044c169f)
 
+![image](https://github.com/user-attachments/assets/0b8fad41-8be0-43e4-b149-6e7025dd8d54)
+
 # Programa 8
 
 print("Para eliminar la carpeta, usa 'os.rmdir(\"myfolder\")'.")
 
 ![image](https://github.com/user-attachments/assets/97c4c34c-c41f-4701-98dd-ebc2a230d345)
+
+![image](https://github.com/user-attachments/assets/fa5ab74b-d94b-4981-ba40-bb53e5b84579)
 
 # Programa 9
 
@@ -107,6 +111,9 @@ archivo.close()
 print("Para eliminar el archivo, usa 'os.remove(\"Pollos.txt.txt\")'.")
 
 ![image](https://github.com/user-attachments/assets/93c829c6-dd4b-4c2c-a3db-366e492a2b59)
+
+![image](https://github.com/user-attachments/assets/8237fb16-7403-4245-b1fa-a0f308599643)
+
 
 
 
